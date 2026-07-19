@@ -1,0 +1,26 @@
+name: Validate Skills
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate repository structure and content
+        run: python scripts/validate_repository.py
+
+      - name: Build dist and check for drift
+        run: |
+          python scripts/build_dist.py
+          git diff --exit-code -- skills/ || (echo "dist is outdated; run 'python scripts/build_dist.py' locally and commit the result."; exit 1)

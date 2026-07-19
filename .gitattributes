@@ -1,0 +1,13 @@
+# Normalize all text files to LF in the repository so the CI dist-drift
+# check (git diff after build_dist.py) is stable across OSes.
+* text=auto eol=lf
+
+# Generated dist packages are text and must stay LF.
+skills/**/dist/** text eol=lf
+
+# Never normalize these as text.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary

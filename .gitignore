@@ -1,0 +1,48 @@
+# ===== Internal project / local environment (never public) =====
+.workbuddy/
+progress/
+/references/
+
+# ===== Secrets & environment =====
+.env
+.env.*
+*.env
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# ===== Logs & temp =====
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# ===== Editor & OS =====
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# ===== Local build / validation caches (committed dist/ is kept) =====
+.local-build/
+.validate-cache/
+
+# ===== Unanonymized / private test data (never commit raw PII) =====
+tests/**/*-raw.*
+tests/**/raw-*
+**/*_secrets.*
+**/*-private.*
+
+# ===== Packaging caches (not the skill dist/) =====
+dist-packages/
+build/
+*.egg-info/
