@@ -93,7 +93,7 @@ new-media-core-skills/
 
 ## 测试说明
 
-每个 Skill 需通过十类测试（研究型至少九类），记录于 `tests/<编号>-<skill-name>/test-record.md`。未通过不得标记为完成。
+每个 Skill 原则上需通过全部十类测试，记录于 `tests/<编号>-<skill-name>/test-record.md`；某类确实不适用时标 `N/A` 并写明原因，但不得跳过触发、边界、输出质量、事实可靠性与路径一致性（第 10 类）测试。未通过不得标记为完成。
 
 ## 兼容性说明
 

@@ -7,7 +7,7 @@
 只有满足以下条件才能发布：
 
 1. 项目所有者明确确认"定稿"。
-2. 十类测试（研究型至少九类）全部通过，记录于 `tests/<编号>-<skill-name>/test-record.md`。
+2. 十类测试全部通过（确有不适用类型须标 `N/A` 并写明原因，且未跳过触发、边界、输出质量、事实可靠性与路径一致性测试），记录于 `tests/<编号>-<skill-name>/test-record.md`。
 3. 已补齐 README、CHANGELOG、examples、publish 与 dist（见 design-spec B11）。
 4. 通过 `python scripts/validate_repository.py`。
 5. 通过隐私与密钥审计（无任何未脱敏个人数据、无密钥）。
