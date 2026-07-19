@@ -22,9 +22,9 @@
 | R03 | 竞品内容分析 | competitor-content-analysis | 分析竞品内容方向、栏目、形式与表现。 | 已定稿 | 1.3.0 | tests/R03-competitor-content-analysis/test-record.md |
 | R04 | 竞品营销策略拆解 | competitor-marketing-strategy-analysis | 拆解竞品传播、获客、承接和转化路径。 | 已定稿 | 1.3.0 | tests/R04-competitor-marketing-strategy-analysis/test-record.md |
 | R05 | 用户评论分析 | user-comment-analysis | 从评论反馈中提取问题、需求与情绪。 | 已定稿 | 1.3.0 | tests/R05-user-comment-analysis/test-record.md |
-| R06 | 用户需求挖掘 | user-needs-discovery | 识别显性需求、隐性需求及优先级。 | 未开始 | - | - |
-| R07 | 热点趋势监测 | trend-monitoring | 监测并判断行业、平台和社会趋势。 | 未开始 | - | - |
-| R08 | 舆情风险识别 | public-opinion-risk-identification | 识别负面舆情、争议和升级风险。 | 未开始 | - | - |
+| R06 | 用户需求挖掘 | user-needs-discovery | 识别显性需求、隐性需求及优先级。 | 待项目所有者审查 | 0.1.0 | tests/R06-user-needs-discovery/test-record.md |
+| R07 | 热点趋势监测 | trend-monitoring | 监测并判断行业、平台和社会趋势。 | 待项目所有者审查 | 0.1.0 | tests/R07-trend-monitoring/test-record.md |
+| R08 | 舆情风险识别 | public-opinion-risk-identification | 识别负面舆情、争议和升级风险。 | 待项目所有者审查 | 0.1.0 | tests/R08-public-opinion-risk-identification/test-record.md |
 
 ## 02 Content Skills｜内容策略与生产，共 15 个
 
