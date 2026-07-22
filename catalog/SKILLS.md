@@ -3,7 +3,7 @@
 > 本文件由 `scripts/generate_catalog.py` 从 `docs/skill-inventory.md` 生成，请勿手改。
 > Generated from the authoritative inventory; do not edit by hand.
 
-共 **50** 个 Skill，已公开 **5** 个。
+共 **50** 个 Skill，已公开 **8** 个。
 
 ## 研究洞察 Research（01-research-insight）
 
@@ -14,9 +14,9 @@
 | R03 | 竞品内容分析 | competitor-content-analysis | 1.3.0 | 已定稿 | [source](../skills/01-research-insight/R03-competitor-content-analysis/competitor-content-analysis.md) | [dist](../skills/01-research-insight/R03-competitor-content-analysis/dist/standard/competitor-content-analysis/SKILL.md) | 通过 | 是 |
 | R04 | 竞品营销策略拆解 | competitor-marketing-strategy-analysis | 1.3.0 | 已定稿 | [source](../skills/01-research-insight/R04-competitor-marketing-strategy-analysis/competitor-marketing-strategy-analysis.md) | [dist](../skills/01-research-insight/R04-competitor-marketing-strategy-analysis/dist/standard/competitor-marketing-strategy-analysis/SKILL.md) | 通过 | 是 |
 | R05 | 用户评论分析 | user-comment-analysis | 1.3.0 | 已定稿 | [source](../skills/01-research-insight/R05-user-comment-analysis/user-comment-analysis.md) | [dist](../skills/01-research-insight/R05-user-comment-analysis/dist/standard/user-comment-analysis/SKILL.md) | 通过 | 是 |
-| R06 | 用户需求挖掘 | user-needs-discovery | - | 未开始 | `skills/01-research-insight/R06-user-needs-discovery/user-needs-discovery.md` | `skills/01-research-insight/R06-user-needs-discovery/dist/standard/user-needs-discovery/SKILL.md` | 未测试 | 否 |
-| R07 | 热点趋势监测 | trend-monitoring | - | 未开始 | `skills/01-research-insight/R07-trend-monitoring/trend-monitoring.md` | `skills/01-research-insight/R07-trend-monitoring/dist/standard/trend-monitoring/SKILL.md` | 未测试 | 否 |
-| R08 | 舆情风险识别 | public-opinion-risk-identification | - | 未开始 | `skills/01-research-insight/R08-public-opinion-risk-identification/public-opinion-risk-identification.md` | `skills/01-research-insight/R08-public-opinion-risk-identification/dist/standard/public-opinion-risk-identification/SKILL.md` | 未测试 | 否 |
+| R06 | 用户需求挖掘 | user-needs-discovery | 1.0.0 | 已定稿 | [source](../skills/01-research-insight/R06-user-needs-discovery/user-needs-discovery.md) | [dist](../skills/01-research-insight/R06-user-needs-discovery/dist/standard/user-needs-discovery/SKILL.md) | 通过 | 是 |
+| R07 | 热点趋势监测 | trend-monitoring | 1.0.0 | 已定稿 | [source](../skills/01-research-insight/R07-trend-monitoring/trend-monitoring.md) | [dist](../skills/01-research-insight/R07-trend-monitoring/dist/standard/trend-monitoring/SKILL.md) | 通过 | 是 |
+| R08 | 舆情风险识别 | public-opinion-risk-identification | 1.0.0 | 已定稿 | [source](../skills/01-research-insight/R08-public-opinion-risk-identification/public-opinion-risk-identification.md) | [dist](../skills/01-research-insight/R08-public-opinion-risk-identification/dist/standard/public-opinion-risk-identification/SKILL.md) | 通过 | 是 |
 
 ## 内容策略与生产 Content（02-content-strategy）
 

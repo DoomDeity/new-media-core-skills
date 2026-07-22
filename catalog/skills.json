@@ -64,36 +64,36 @@
     "name_zh": "用户需求挖掘",
     "name": "user-needs-discovery",
     "category": "01-research-insight",
-    "version": "",
-    "status": "未开始",
+    "version": "1.0.0",
+    "status": "已定稿",
     "source_path": "skills/01-research-insight/R06-user-needs-discovery/user-needs-discovery.md",
     "dist_path": "skills/01-research-insight/R06-user-needs-discovery/dist/standard/user-needs-discovery/SKILL.md",
-    "test_status": "未测试",
-    "published": false
+    "test_status": "通过",
+    "published": true
   },
   {
     "id": "R07",
     "name_zh": "热点趋势监测",
     "name": "trend-monitoring",
     "category": "01-research-insight",
-    "version": "",
-    "status": "未开始",
+    "version": "1.0.0",
+    "status": "已定稿",
     "source_path": "skills/01-research-insight/R07-trend-monitoring/trend-monitoring.md",
     "dist_path": "skills/01-research-insight/R07-trend-monitoring/dist/standard/trend-monitoring/SKILL.md",
-    "test_status": "未测试",
-    "published": false
+    "test_status": "通过",
+    "published": true
   },
   {
     "id": "R08",
     "name_zh": "舆情风险识别",
     "name": "public-opinion-risk-identification",
     "category": "01-research-insight",
-    "version": "",
-    "status": "未开始",
+    "version": "1.0.0",
+    "status": "已定稿",
     "source_path": "skills/01-research-insight/R08-public-opinion-risk-identification/public-opinion-risk-identification.md",
     "dist_path": "skills/01-research-insight/R08-public-opinion-risk-identification/dist/standard/public-opinion-risk-identification/SKILL.md",
-    "test_status": "未测试",
-    "published": false
+    "test_status": "通过",
+    "published": true
   },
   {
     "id": "C01",
